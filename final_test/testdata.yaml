@@ -1,0 +1,8 @@
+url: 'https://test-stand.gb.ru/'
+url_auto: 'https://test-stand.gb.ru/gateway/login'
+browser: chrome
+sleep_time: 1
+
+login: 'Sidor03'
+password: 'a291844463'
+
